@@ -1,0 +1,25 @@
+{
+  "name": "Example Docs",
+  "url": "https://example.com",
+  "built_at": "2026-11-19T00:00:00+00:00",
+  "pages": [
+    {
+      "url": "https://example.com/",
+      "title": "Example — tools for small teams",
+      "description": "Example makes scheduling simple.",
+      "text": "Example is a scheduling tool for small teams. Start a free trial in two minutes. Pricing starts at 9 EUR per month."
+    },
+    {
+      "url": "https://example.com/docs",
+      "title": "Documentation — getting started",
+      "description": "Install and configure Example.",
+      "text": "Create an account, connect a calendar, and invite your team. The API uses a bearer token. Rate limit is 60 requests per minute."
+    },
+    {
+      "url": "https://example.com/faq",
+      "title": "Frequently asked questions",
+      "description": "Common questions about billing and data.",
+      "text": "You can cancel at any time. Data is stored in the EU. Refunds are available within 14 days."
+    }
+  ]
+}
