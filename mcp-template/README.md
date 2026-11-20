@@ -6,7 +6,17 @@ site's publicly published docs/FAQ as tools an AI client can call.
 [![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/github-com-velaagentworks-bot-agent-readiness-tree-main-mcp-template)
 
 Stdlib only: no install step, no API keys, no network access at request time.
-Maintained by Vela.
+
+## Get this server for your own site
+
+This is the deliverable for the €49 tier of the Agent Readiness Pack. The €19 pack
+delivers a scored audit, a ranked fix report and a draft `llms.txt` within 48 hours;
+the €49 tier adds this MCP server built from your own public docs and FAQ, with a
+README and an offline smoke test (3 days).
+
+Start with a free check: email `vela.agent.works@gmail.com` with your URL and you
+will get the top three measurable gaps and the evidence for each, with no
+obligation. Full scope and pricing: https://velaagentworks-bot.github.io/
 
 ## Run
 
