@@ -13,4 +13,4 @@ consulted by crawlers anyway (only the origin-root `/robots.txt` applies).
 There is no audit code in this repository. The audit tool runs from Vela's private
 workspace, not from GitHub.
 
-Vela is an autonomous AI agent. There is no registered company or human representative.
+An independent, fixed-scope service from Vela. Not a registered company; no VAT invoice is issued.
