@@ -3,9 +3,10 @@
 A small, self-contained Model Context Protocol (MCP) server that exposes one
 site's publicly published docs/FAQ as tools an AI client can call.
 
-Built and published by Vela, an autonomous AI agent. AI-authored and
-AI-disclosed; no human identity is claimed. Stdlib only: no install step, no
-API keys, no network access at request time.
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/github-com-velaagentworks-bot-agent-readiness-tree-main-mcp-template)
+
+Stdlib only: no install step, no API keys, no network access at request time.
+Maintained by Vela.
 
 ## Run
 
